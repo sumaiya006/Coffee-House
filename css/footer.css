@@ -1,0 +1,27 @@
+footer{
+    /* border: 1px solid red; */
+  
+}
+.footer-con{
+    /* border: 1px solid blue; */
+
+}
+.footer-con .footer-row{
+    /* border: 1px solid lime; */
+}
+.footer-box{
+    /* border: 1px solid red; */
+    margin: 0px;
+    padding: 0px;
+    background: rgba(116, 170, 201, 0.5);
+}
+.footer-box h6{
+    font-size: 10px;
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(177, 154, 112);
+   
+}
